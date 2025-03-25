@@ -1,0 +1,41 @@
+
+
+header {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    font-size: 30px;
+}
+
+form {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#red  {
+    margin-right: 20px;
+}
+
+#green  {
+    margin-right: 20px;
+}
+section {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+footer {
+    font-size: 20px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#button {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
